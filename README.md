@@ -24,7 +24,7 @@ We will be running this module in Semester 2 which runs from February - May 2021
 3. Then the problem giver will pop back halfway through the semester (end of March 2021) to see how they getting on and offer some feedback or direction
 4. Then the problem giver will be part of the panel when the students present their problem and will help in the assessment process (end of April 2021).
 
-Interested in getting involved or need more details please contact martin.reid@solent.ac.uk or DM me on Twitter: @WebDevSolent
+Interested in getting involved or need more details please contact martin.reid@solent.ac.uk or DM me on Twitter: [@WebDevSolent](https://twitter.com/WebDevSolent)
 
 
 
