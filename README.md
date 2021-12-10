@@ -1,6 +1,6 @@
 # We need your problems
 
-![man stressed](repo_images/volodymyr-hryshchenko-inI8GnmS190-unsplash.jpg)
+![cube](repo_images/volodymyr-hryshchenko-inI8GnmS190-unsplash.jpg)
 
 [Photo by](https://unsplash.com/@lunarts?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) [Volodymyr Hryshchenko](https://unsplash.com/s/photos/problem?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   
