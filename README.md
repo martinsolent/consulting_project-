@@ -1,6 +1,11 @@
 # We need your problems
 
-![man stressed](repo_images/sebastian-herrmann-jzTQVxCyKYs-unsplash.jpg)
+![man stressed](repo_images/volodymyr-hryshchenko-inI8GnmS190-unsplash.jpg)
+
+[Photo by](https://unsplash.com/@lunarts?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
+
+[Volodymyr Hryshchenko](https://unsplash.com/s/photos/problem?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  
 
 The Computing Subject Group at [Solent University Southampton](https://www.solent.ac.uk/) has a brand new Industrial Consulting Project module which will be delivered to all our 3rd year students who will be working in groups of five or six to solve "real-world" problem given by an digital industry practitioner or company.
 
