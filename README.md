@@ -6,7 +6,7 @@
   
 The Computing Subject Group at [Solent University Southampton](https://www.solent.ac.uk/) runs an Industrial Consulting Project module which is delivered to all our 3rd-year students who will be working in groups of five or six to solve "real-world" problems given by a digital industry practitioner or company.
 
-We will be running this module in Semester 2 February - May 2022 and we will need problems ready to give to students from mid January 2022
+We will be running this module in Semester 2 February - May 2023 and we will need problems ready to give to students from mid January 2023
 
 **The problems to solve will need to fall in the area/fields:**
 
@@ -23,8 +23,8 @@ We will be running this module in Semester 2 February - May 2022 and we will nee
 
 1. A short write-up (one or two sides of A4 max.) of the problem including background/context and some pointers for getting started 
 2. Create a 3 to 5 minute video setting out this problem for the students to watch
-3. Then the problem giver will pop back halfway through the semester (end of March 2022) to see how they getting on and offer some feedback or direction
-4. Then the problem giver will be part of the panel when the students present their solution and will help in the assessment process (beginning of May 2022).
+3. Then the problem giver will pop back halfway through the semester (end of March 2023) to see how they getting on and offer some feedback or direction
+4. Then the problem giver will be part of the panel when the students present their solution and will help in the assessment process (beginning of May 2023).
 
 Interested in getting involved or need more details please contact martin.reid@solent.ac.uk or DM me on Twitter: [@WebDevSolent](https://twitter.com/WebDevSolent)
 
