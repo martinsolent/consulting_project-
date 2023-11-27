@@ -6,7 +6,7 @@
   
 The Computing Subject Group at [Solent University Southampton](https://www.solent.ac.uk/) runs an Industrial Consulting Project module which is delivered to all our 3rd-year students who will be working in groups of five or six to solve "real-world" problems given by a digital industry practitioner or company. The idea of this project is for the students to receive feedback on how they have worked together to solve the problem.
 
-We will be running this module in Semester 2 February - May 2023 and we will need problems ready to give to students from mid-January 2024
+We will be running this module in Semester 2 February - May 2024 and we will need problems ready to give to students from mid-January 2024
 **The problems to solve will need to fall in the area/fields:**
 
 - Digital design (UI)
