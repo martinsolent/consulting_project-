@@ -1,12 +1,12 @@
-# We need your problems
+# We need your help!
 
 ![cube](repo_images/volodymyr-hryshchenko-inI8GnmS190-unsplash.jpg)
 
 [Photo by](https://unsplash.com/@lunarts?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) [Volodymyr Hryshchenko](https://unsplash.com/s/photos/problem?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   
-The Computing Subject Group at [Solent University Southampton](https://www.solent.ac.uk/) runs an Industrial Consulting Project module which is delivered to all our 3rd-year students who will be working in groups of five or six to solve "real-world" problems given by a digital industry practitioner or company. The idea of this project is for the students to receive feedback on how they have worked together to solve the problem.
+The Computing Subject Group at [Southampton Solent University](https://www.solent.ac.uk/) runs an Industrial Consulting Project module which is delivered to all our 3rd-year students who will be working in groups of five or six on "real-world" project given by a digital industry practitioner or company. The idea of this project is for the students to receive feedback on how they have worked together to solve the problem.
 
-We will be running this module in Semester 2 February - May 2024 and we will need problems ready to give to students from mid-January 2024
+We will be running this module in Semester 2 September - May 2025 and we will need project ready to give to students start of January 20245
 **The problems to solve will need to fall in the area/fields:**
 
 - Digital design (UI)
@@ -18,7 +18,7 @@ We will be running this module in Semester 2 February - May 2024 and we will nee
 - Networking
 - Anything under the umbrella of computing
 
-### What do we need from the problem giver?
+### What do we need from the project giver?
 
 1. A short write-up (one or two sides of A4 max.) of the problem including background/context and some pointers for getting started 
 2. Create a 3 to 5-minute video setting out this problem for the students to watch
