@@ -4,7 +4,7 @@
 
 [Photo by](https://unsplash.com/@lunarts?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) [Volodymyr Hryshchenko](https://unsplash.com/s/photos/problem?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   
-The Computing Subject Group at [Southampton Solent University](https://www.solent.ac.uk/) runs an Industrial Consulting Project module, which is delivered to all our third-year students. These students will work in groups of five or six on a "real-world" project provided by a digital industry practitioner or company. The aim of this project is for the students to receive feedback on how they have worked together to solve the problem.
+The Computing Subject Group at [Southampton Solent University](https://www.solent.ac.uk/) runs an Industrial Consulting Project module, which is delivered to all our third-year students. The students will work in groups of five or six on a "real-world" project provided by a digital industry practitioner or company. The aim of this project is for the students to receive feedback on how they have worked together to solve the problem.
 
 They will work through three sprints with set targets: Gathering Requirements, Proof of Concept, and MVP. At the Proof of Concept stage, they will need feedback from the project provider, and final feedback will be given at the MVP presentation at the end of Sprint 3.
 
