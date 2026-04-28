@@ -13,14 +13,15 @@ The project runs across Semester 2 (January–May) and is structured around thre
 2.	Proof of Concept – exploring and validating ideas or technical approaches
 3.	Minimum Viable Product (MVP) – demonstrating a coherent solution or prototype
 
-At key points, industry input is built into the process:
+**At key points, industry input is built into the process:**
 •	Proof of Concept feedback from the project provider (mid semester)
 •	Final feedback and assessment contribution at the MVP presentation (mid-May)
 Projects need to be ready for allocation at the start of January.
 
  
 ### Suitable Project Areas
-Project briefs should fall within one or more of the following areas:
+
+**Project briefs should fall within one or more of the following areas:**
 
 * Digital design (UI) and User Experience (UX)
 * Web development (front end, back end, or full stack)
@@ -34,30 +35,30 @@ Project briefs should fall within one or more of the following areas:
 
 We ask project providers to contribute the following:
 
-A short-written brief using the supplied template outlining:
+***A short-written brief using the supplied template outlining**
 
-•* The problem or challenge
+* The problem or challenge
 * Relevant background or context
 * Any constraints, users, or goals
 * Pointers to help students get started (without prescribing a fixed solution)
 * A 3–5-minute video introducing the problem for students
 
-Participation in a mid semester checkpoint (early/mid March) to:
+**Participation in a mid semester checkpoint (early/mid March) to:**
 
 * See how teams are progressing
 * Offer feedback, clarification, or direction
 * Participation in the final presentation panel (mid-May), contributing to assessment and feedback
 
-Managing Expectations: Important Guidance for Project Providers
+**Managing Expectations: Important Guidance for Project Providers**
 These projects are designed as an educational, learning focused experience, rather than commercial delivery or consultancy work.
 
-While students will engage seriously with your brief and apply relevant tools, techniques and best practice, it is important to note that:
+**While students will engage seriously with your brief and apply relevant tools, techniques and best practice, it is important to note that:**
 
 * Students are undergraduates, working within the scope of their academic level and pathway
 * Outputs are not expected to be production ready or suitable for immediate deployment
 * Projects are not a substitute for professional development work, contracted services, or free website/software creation
 
-The emphasis is on:
+**The emphasis is on:**
 
 * Tackling authentic, real world problems
 * Exploring possible solutions and trade offs
