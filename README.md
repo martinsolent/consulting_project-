@@ -5,7 +5,8 @@
 Computing at [Southampton Solent University](https://www.solent.ac.uk/) runs an Industrial Consulting Project COM617 module delivered to all third year undergraduate students across our computing and digital programmes.
 
 Students work in small teams of five to six on a real world problem provided by a digital or technology focused organisation or practitioner. The primary aim is to give students experience of responding to genuine industry challenges while receiving feedback on how they collaborate, problem solve, and apply their technical skills in practice.
-This module is best thought of as a learning focused blend of The Apprentice and Dragons’ Den TV shows: real challenges, teamwork, iteration, and presentation to industry panels.
+
+This module is best thought of as a learning focused **blend of The Apprentice and Dragons’ Den TV shows:** real challenges, teamwork, iteration, and presentation to industry panels.
 
 ### How the Module Works
 The project runs across Semester 2 (January–May) and is structured around three iterative sprints:
@@ -15,9 +16,10 @@ The project runs across Semester 2 (January–May) and is structured around thre
 1.	Minimum Viable Product (MVP) – demonstrating a coherent solution or prototype
 
 **At key points, industry input is built into the process:**
-•	Proof of Concept feedback from the project provider (mid semester)
-•	Final feedback and assessment contribution at the MVP presentation (mid-May)
-Projects need to be ready for allocation at the start of January.
+
+* Proof of Concept feedback from the project provider (mid semester)
+* Final feedback and assessment contribution at the MVP presentation (mid-May)
+* Projects need to be ready for allocation at the start of January.
 
  
 ### Suitable Project Areas
@@ -50,7 +52,8 @@ We ask project providers to contribute the following:
 * Offer feedback, clarification, or direction
 * Participation in the final presentation panel (mid-May), contributing to assessment and feedback
 
-**Managing Expectations: Important Guidance for Project Providers**
+### Managing Expectations: Important Guidance for Project Providers
+
 These projects are designed as an educational, learning focused experience, rather than commercial delivery or consultancy work.
 
 **While students will engage seriously with your brief and apply relevant tools, techniques and best practice, it is important to note that:**
