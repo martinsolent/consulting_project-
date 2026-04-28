@@ -9,9 +9,10 @@ This module is best thought of as a learning focused blend of The Apprentice and
 
 ### How the Module Works
 The project runs across Semester 2 (January–May) and is structured around three iterative sprints:
+
 1.	Gathering Requirements – understanding the problem space, users, constraints and goals
-2.	Proof of Concept – exploring and validating ideas or technical approaches
-3.	Minimum Viable Product (MVP) – demonstrating a coherent solution or prototype
+1.	Proof of Concept – exploring and validating ideas or technical approaches
+1.	Minimum Viable Product (MVP) – demonstrating a coherent solution or prototype
 
 **At key points, industry input is built into the process:**
 •	Proof of Concept feedback from the project provider (mid semester)
