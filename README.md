@@ -2,7 +2,7 @@
 
 ![cube](repo_images/volodymyr-hryshchenko-inI8GnmS190-unsplash.jpg)
 
-Computing at Southampton Solent University runs an Industrial Consulting Project COM617 module delivered to all third year undergraduate students across our computing and digital programmes.
+Computing at [Southampton Solent University](https://www.solent.ac.uk/) runs an Industrial Consulting Project COM617 module delivered to all third year undergraduate students across our computing and digital programmes.
 
 Students work in small teams of five to six on a real world problem provided by a digital or technology focused organisation or practitioner. The primary aim is to give students experience of responding to genuine industry challenges while receiving feedback on how they collaborate, problem solve, and apply their technical skills in practice.
 This module is best thought of as a learning focused blend of The Apprentice and Dragons’ Den TV shows: real challenges, teamwork, iteration, and presentation to industry panels.
