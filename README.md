@@ -71,4 +71,4 @@ These projects are designed as an educational, learning focused experience, rath
 
 While we encourage briefs to be framed as problems or challenges for students to explore, we also welcome projects with fixed deliverables, if these are realistic for an undergraduate team and treated as learning outcomes rather than commercial outputs. Your role is best seen as that of an industry mentor or critical friend, providing insight and feedback rather than acting as a commercial client.
 
-Next Step fill-in the [Project Brief Template](https://github.com/martinsolent/consulting_project-/blob/main/TEMPLATE_Project_Brief_COM617.docx)
+Next Step fill-in the [Project Brief Template](https://github.com/martinsolent/consulting_project-/raw/refs/heads/main/TEMPLATE_Project_Brief_COM617.docx)
